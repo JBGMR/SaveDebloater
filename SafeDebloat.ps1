@@ -1,0 +1,1 @@
+Get-AppxPackage *M* | Remove-AppxPackage
